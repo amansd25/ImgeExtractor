@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "tesseract.js": "^5.0.4"
+  },
+  "name": "imageextractor",
+  "version": "1.0.0",
+  "main": "imageExtractor.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Aman Raj",
+  "license": "ISC",
+  "description": ""
+}
